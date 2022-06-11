@@ -1,5 +1,5 @@
 ## [YOU MUST HAVE Core_skills which can be bought from]
-<a href='https://www.c8re.store/package/5118874'> --Press Crtl+Left click to got to there STORE
+<a href='https://www.c8re.store/package/5118874'> --Click Here To Buy Core_Skills
 
 ## <h3 align='center'> Moved to a new repo so issues can be opened old version can be found  <a href='https://github.com/Kingsage311/qb-skillz-old'>here</a></h3>
 ## <h3 align='center'>For more support or to see more of my resources you can join my <a href='https://discord.gg/aCFPpcKEGk'>discord</a></h3>
